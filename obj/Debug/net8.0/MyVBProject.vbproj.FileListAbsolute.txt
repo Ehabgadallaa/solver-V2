@@ -1,0 +1,14 @@
+D:\MyVBConsoleApp1\MyVBProject\bin\Debug\net8.0\MyVBProject.exe
+D:\MyVBConsoleApp1\MyVBProject\bin\Debug\net8.0\MyVBProject.deps.json
+D:\MyVBConsoleApp1\MyVBProject\bin\Debug\net8.0\MyVBProject.runtimeconfig.json
+D:\MyVBConsoleApp1\MyVBProject\bin\Debug\net8.0\MyVBProject.dll
+D:\MyVBConsoleApp1\MyVBProject\bin\Debug\net8.0\MyVBProject.pdb
+D:\MyVBConsoleApp1\MyVBProject\obj\Debug\net8.0\MyVBProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyVBConsoleApp1\MyVBProject\obj\Debug\net8.0\MyVBProject.AssemblyInfoInputs.cache
+D:\MyVBConsoleApp1\MyVBProject\obj\Debug\net8.0\MyVBProject.AssemblyInfo.vb
+D:\MyVBConsoleApp1\MyVBProject\obj\Debug\net8.0\MyVBProject.vbproj.CoreCompileInputs.cache
+D:\MyVBConsoleApp1\MyVBProject\obj\Debug\net8.0\MyVBProject.dll
+D:\MyVBConsoleApp1\MyVBProject\obj\Debug\net8.0\refint\MyVBProject.dll
+D:\MyVBConsoleApp1\MyVBProject\obj\Debug\net8.0\MyVBProject.pdb
+D:\MyVBConsoleApp1\MyVBProject\obj\Debug\net8.0\MyVBProject.genruntimeconfig.cache
+D:\MyVBConsoleApp1\MyVBProject\obj\Debug\net8.0\ref\MyVBProject.dll
