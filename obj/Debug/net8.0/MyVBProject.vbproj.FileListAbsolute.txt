@@ -12,3 +12,4 @@ D:\MyVBConsoleApp1\MyVBProject\obj\Debug\net8.0\refint\MyVBProject.dll
 D:\MyVBConsoleApp1\MyVBProject\obj\Debug\net8.0\MyVBProject.pdb
 D:\MyVBConsoleApp1\MyVBProject\obj\Debug\net8.0\MyVBProject.genruntimeconfig.cache
 D:\MyVBConsoleApp1\MyVBProject\obj\Debug\net8.0\ref\MyVBProject.dll
+D:\MyVBConsoleApp1\MyVBProject\obj\Debug\net8.0\MyVBProject.sourcelink.json
